@@ -21,10 +21,9 @@
 <br/>
 
 <p align="center">
-<em><b> Studying Database Technology at Fatec (SJC) </b></em> <br/>
-<em><b> Currently developing and testing projects to put theoretical knowledge into practice </b></em><br/>
-<em><b> Arch Linux & Hyprland user (2025) </b></em><br/>
-<em><b> Car enthusiast and acoustic guitar enthusiast </b></em><br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying Database Technology at Fatec (SJC) </b></em> <br/>
+   <img src="/imgs/img4.png" width="15"/>   <em><b> Currently developing and testing projects to put theoretical knowledge into practice </b></em><br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Arch Linux & Hyprland user (2025) </b></em><br/>
 </p>
 
 <br/>
