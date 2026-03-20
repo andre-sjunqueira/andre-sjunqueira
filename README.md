@@ -14,7 +14,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Andre S </b></em>, I'm a 20-year-old Database Technology student at FATEC São José dos Campos. My interest in technology has been with me for a long time, leading me to pursue a career in the field. Currently, I am fully dedicated to developing my skills and mastering the essential languages and tools required for a professional developer, with a strong focus on building a resilient coding syntax.
+  Hello There! <em><b> I'm Andre S </b></em>, I'm a 20-year-old Database Technology student. My interest in technology has been with me for a long time, leading me to pursue a career in the field. Currently, I am fully dedicated to developing my skills and mastering the essential languages and tools required for a professional developer, with a strong focus on building a resilient coding syntax.
 </p>
 
 
